@@ -1,5 +1,5 @@
 ### Hi there, I'm Nicky! 👋
-- Python, Rust
+- Python, Rust, JS
 
 <!--
 **NickyAlan/NickyAlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
