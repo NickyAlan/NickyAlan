@@ -1,5 +1,5 @@
 ### Hi there, I'm Nicky! 👋
-- Python, Rust, JS
+[![My Skills](https://skillicons.dev/icons?i=py,rust,js,tauri,pytorch)](https://skillicons.dev)
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickyalan&layout=compact&show_icons=true&hide_border=true&bg_color=232326&icon_color=ebcb8b&title_color=a0c5e7&text_color=a0c5e7&hide=jupyter%20notebook,TeX,css,scss)
 <!--
